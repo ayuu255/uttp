@@ -2,7 +2,7 @@ import asyncio
 import aiohttp
 from datetime import datetime
 
-URL = "Enter Your Url"  # change with your url
+URL = "https://kstn32-8888.csb.app/terminals/1"  # change with your url
 
 PING_INTERVAL = 5
 COLD_START_TIMEOUT = 60     # its  important for Render and do not change it 
